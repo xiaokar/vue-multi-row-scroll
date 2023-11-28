@@ -1,0 +1,27 @@
+{
+  "name": "vue-multi-row-scroll",
+  "version": "1.0.4",
+  "description": "基于 Vue2 的多行滚动组件",
+  "main": "vue-multi-row-scroll.common.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xiaokar",
+  "homepage": "https://gitee.com/xiaokar/vue-multi-row-scroll",
+  "repository": {
+    "type": "gitee",
+    "url": "gitee+https://gitee.com/xiaokar/vue-multi-row-scroll"
+  },
+  "keywords": [
+    "vue",
+    "vue2",
+    "scroll",
+    "vue-multi-row-scroll",
+    "multirow",
+    "swiper",
+    "vue-scroll",
+    "滚动",
+    "轮播"
+  ],
+  "license": "MIT"
+}
